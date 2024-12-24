@@ -18,8 +18,8 @@
 		(uuid "6d72ca06-61bc-421c-8474-206b2c6f6ddc")
 	)
 	(sheet
-		(at 13.97 13.97)
-		(size 267.97 146.05)
+		(at 13.97 24.13)
+		(size 207.01 135.89)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -29,11 +29,11 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "31fdf277-fb9c-4014-8175-4f6de394d411")
-		(property "Sheetname" "Top Level"
-			(at 13.97 13.2584 0)
+		(property "Sheetname" "Tile"
+			(at 13.97 22.1484 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 3.81 3.81)
 				)
 				(justify left bottom)
 			)
